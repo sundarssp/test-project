@@ -1,5 +1,6 @@
 # ignore target folder
 target/
+.settings
 
 # Compiled class file
 *.class
